@@ -67,6 +67,11 @@ Logic symbol & Truthtable
 RTL realization
 Output:
 RTL
+![Screenshot 2023-11-26 134241](https://github.com/TimmapuramYogeeswar/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/154494746/00d6efcd-cd57-4838-b7f5-6a2f5e3c433c)
+![Screenshot 2023-11-26 134226](https://github.com/TimmapuramYogeeswar/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/154494746/fbfb8875-3c94-410c-8372-6bb4d4582162)
+![Screenshot 2023-11-26 133608](https://github.com/TimmapuramYogeeswar/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/154494746/12e2c1cc-1d14-4114-aa15-811c7c8ed0f6)
+
+![Exp1 truthtable](https://github.com/TimmapuramYogeeswar/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/154494746/13a25f70-8cd2-4cde-9104-afc7254eb0ca)
 
 Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
